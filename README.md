@@ -1,4 +1,4 @@
-## Hi, I'm @Qura41 👋
+## Hi, I'm @quraoff 👋
 
 🔭 I'm a beginner .NET developer.
 
@@ -6,8 +6,8 @@
 
 📫 How to reach me:
 - GMail: quraoff@gmail.com
-- Discord: qura41.
-- Telegram: @qura41
+- Discord: qurame.
+- Telegram: @de_qura
 
 <!--
 **Qura41/Qura41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
