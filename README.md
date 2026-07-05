@@ -1,13 +1,32 @@
 ## Hi, I'm @quraoff 👋
 
-🔭 I'm a beginner .NET developer.
+💻 **System Administrator | DevOps/DevSecOps Engineer in progress**
 
-⚡ I’m currently learning C#, ASP.NET Core, Entity Framework Core, wanna learn backend development.
+🔭 I'm passionate about infrastructure automation, cloud technologies, and security.
 
-📫 How to reach me:
-- GMail: quraoff@gmail.com
-- Discord: qurame.
-- Telegram: @de_qura
+⚡ **Currently learning:**
+- Ansible, Terraform, Docker, Kubernetes
+- CI/CD pipelines (GitLab CI, GitHub Actions)
+- Cloud platforms (Selectel)
+- DevSecOps practices and security automation
+- Infrastructure as Code (IaC)
+
+🛠️ **My stack:**
+- **OS:** Linux (Ubuntu, Mint, AlmaLinux)
+- **Automation:** Ansible, Terraform
+- **Containers:** Docker, Docker Compose, Kubernetes
+- **CI/CD:** GitLab CI, GitHub Actions
+- **Monitoring:** Prometheus, Grafana
+- **Scripting:** Bash, Python, PowerShell
+- **Networking:** TCP/IP, DNS, DHCP, VPN, Firewalls
+
+📫 **How to reach me:**
+- 📧 Email: quraoff@gmail.com
+- 💬 Discord: qurame.
+- ✈️ Telegram: @de_qura
+
+🚀 **My goal:** 
+Become a professional DevOps/DevSecOps engineer, building scalable, secure, and automated infrastructure solutions.
 
 <!--
 **Qura41/Qura41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
